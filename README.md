@@ -80,11 +80,11 @@ Only a group of neurons can do a complicated task
 Huge database
 <img width="534" height="226" alt="image" src="https://github.com/user-attachments/assets/cfbe9634-305f-422f-b8dc-b9a3af62e6fc" />
 <img width="325" height="235" alt="image" src="https://github.com/user-attachments/assets/733e9bac-6d15-4f0a-b43b-5a41caa5f9d3" />
-
-
 <img width="427" height="175" alt="image" src="https://github.com/user-attachments/assets/56981a5c-36f6-483c-900a-3877ef37aa17" />
 <img width="308" height="270" alt="image" src="https://github.com/user-attachments/assets/9f896e40-657b-4980-a916-b77d9217d127" />
 <img width="415" height="241" alt="image" src="https://github.com/user-attachments/assets/05d27845-1a59-4a70-b3a8-50e34a772f61" />
+<img width="507" height="278" alt="image" src="https://github.com/user-attachments/assets/24d3e9be-a23e-4814-a97d-4c09719ad9ad" />
+
 
 <img width="503" height="218" alt="image" src="https://github.com/user-attachments/assets/d5822257-3939-40ef-9ce8-1096fcec7033" />
 
