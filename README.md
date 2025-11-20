@@ -68,7 +68,7 @@ Alternative to AI:Rule- based system is an alternative to AI
 AI:Learning- based system
 <img width="405" height="206" alt="image" src="https://github.com/user-attachments/assets/d90b9ea3-faf6-4c0c-9bd5-c3c629ef5500" />
 Rule-based system or learning -based system is selected baed on nature of problem.
-
+Artificial neuron:
 Perceptron:
 
 <img width="511" height="226" alt="image" src="https://github.com/user-attachments/assets/618ca5c9-a8c5-4260-a87b-47210f3fc415" />
