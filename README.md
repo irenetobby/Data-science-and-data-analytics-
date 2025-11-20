@@ -44,5 +44,8 @@ b)Agile methodology: Iterative approach to manage software development projects 
 Increased development speed. More collaboration.Better responses to market trends.
 
 <img width="400" height="251" alt="image" src="https://github.com/user-attachments/assets/68ced3f5-db41-4d15-9238-ae6cee9fb446" />
+<img width="499" height="256" alt="image" src="https://github.com/user-attachments/assets/a1f1bc34-459d-4bda-bee5-038270b0ceb2" />
+Scrum:an agile framework for project management that helps teams deliver value through iterative cycles called "sprints". It provides a structure of roles, events, and artifacts to manage complex projects, particularly in software development, by breaking work into small, manageable chunks and allowing for continuous adaptation and improvement. 
+<img width="500" height="253" alt="image" src="https://github.com/user-attachments/assets/8415db45-5c64-4df6-b519-75f232c59d45" />
 
 
