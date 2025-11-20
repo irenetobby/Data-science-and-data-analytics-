@@ -56,7 +56,7 @@ Jira is an issue-tracking and project management software from Atlassian that he
 
 Session 4:Demystifying terms data science,ML and AI
 
-<img width="499" height="208" alt="image" src="https://github.com/user-attachments/assets/31cc141d-fa3c-49b2-8668-8c1802794747" />
+<img width="135" height="70" alt="image" src="https://github.com/user-attachments/assets/31cc141d-fa3c-49b2-8668-8c1802794747" />
 
 <img width="531" height="284" alt="image" src="https://github.com/user-attachments/assets/35287b8b-7c1f-4013-afd7-ff6ef004d733" />
 <img width="403" height="239" alt="image" src="https://github.com/user-attachments/assets/efe8b905-eb1e-4ce2-b2d2-26ee8d567fd3" />
@@ -79,14 +79,14 @@ Only a group of neurons can do a complicated task
 <img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/31d96a9f-0cba-4712-b4de-59a74f46bbc3" />
 Huge database
 <img width="534" height="226" alt="image" src="https://github.com/user-attachments/assets/cfbe9634-305f-422f-b8dc-b9a3af62e6fc" />
-<img width="325" height="235" alt="image" src="https://github.com/user-attachments/assets/733e9bac-6d15-4f0a-b43b-5a41caa5f9d3" />
-<img width="427" height="175" alt="image" src="https://github.com/user-attachments/assets/56981a5c-36f6-483c-900a-3877ef37aa17" />
-<img width="507" height="278" alt="image" src="https://github.com/user-attachments/assets/24d3e9be-a23e-4814-a97d-4c09719ad9ad" />
-<img width="415" height="241" alt="image" src="https://github.com/user-attachments/assets/05d27845-1a59-4a70-b3a8-50e34a772f61" />
-<img width="308" height="270" alt="image" src="https://github.com/user-attachments/assets/9f896e40-657b-4980-a916-b77d9217d127" />
+<img width="649" height="469" alt="image" src="https://github.com/user-attachments/assets/996ef2c1-d43a-41c1-8289-e53d21571c19" />
+<img width="853" height="349" alt="image" src="https://github.com/user-attachments/assets/48da3bc7-613f-46e8-8c67-832c33980134" />
+<img width="616" height="540" alt="image" src="https://github.com/user-attachments/assets/0c25001a-b44b-48bb-a1e2-7517bfc16a99" />
+<img width="829" height="481" alt="image" src="https://github.com/user-attachments/assets/e3cc7061-a701-4c8e-a242-39da3a0680c7" />
+<img width="1005" height="435" alt="image" src="https://github.com/user-attachments/assets/c7fb0289-4944-4dd4-ad9d-b5dacfbfd7f4" />
+<img width="1014" height="555" alt="image" src="https://github.com/user-attachments/assets/a9d0b253-8b38-480f-be3d-2f4bddd1159c" />
 
 
-<img width="503" height="218" alt="image" src="https://github.com/user-attachments/assets/d5822257-3939-40ef-9ce8-1096fcec7033" />
 
 <img width="433" height="248" alt="image" src="https://github.com/user-attachments/assets/a3906612-a01a-4844-8b67-f469009a2c82" />
 <img width="449" height="227" alt="image" src="https://github.com/user-attachments/assets/9a2ce7c7-da66-4eb6-826a-b694d60eb097" />
