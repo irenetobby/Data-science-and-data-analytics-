@@ -9,7 +9,14 @@ class notes for DSA Class
 2nd Session:Design thinking
             1)Think differently
             2)definition:Problem -solving approach focused on users
-            3)Steps in problem-solving:1)Empathize -develop a deep understanding 2)Define- articulate problem 3)ideate-brainstorm 4)prototype-create a dummy of the product
+            3)Steps in problem-solving:1)Empathize -develop a deep understanding 2)Define- articulate problem 3)ideate-brainstorm 4)prototype-create a dummy of the product    Some examples for design thinking:
+            1)MRI SACANNER FOR KIDS
+             <img width="592" height="297" alt="image" src="https://github.com/user-attachments/assets/2db94e50-5473-4780-b860-382d1be4d4cf" />
+            2)ANNA'S AMAZING AUTO
+             <img width="352" height="197" alt="image" src="https://github.com/user-attachments/assets/25e42d3e-2b00-4399-9f0a-2ab5f418a57f" />
+             
+
+
 3rd session:Software development
 Definition: Process of designing,creating,testing & maintaining software applicationsto meet specific user needs or business objectives.
 Software development lifecycle: Structured process used to design,develop & test good-quality software.
