@@ -55,14 +55,15 @@ Kanban is a visual management method for managing work, originating from the Jap
 Jira is an issue-tracking and project management software from Atlassian that helps teams plan, track, and manage their work. It is widely used for agile software development and can also be used for IT service management, bug tracking, and customer support. Originally a bug-tracking tool, Jira now supports various projects through features like customizable workflows, agile boards, and issue hierarchies. Jira is a project management tool used by teams to plan, track, and manage their work. It is commonly used for bug and issue tracking, especially in software development, and for managing agile projects using features like Kanban boards and scrum sprints. Other uses include workflow automation, marketing campaign management, and program management. 
 
 Session 4:Demystifying terms data science,ML and AI
+
 <img width="499" height="208" alt="image" src="https://github.com/user-attachments/assets/31cc141d-fa3c-49b2-8668-8c1802794747" />
 
 <img width="531" height="284" alt="image" src="https://github.com/user-attachments/assets/35287b8b-7c1f-4013-afd7-ff6ef004d733" />
 <img width="403" height="239" alt="image" src="https://github.com/user-attachments/assets/efe8b905-eb1e-4ce2-b2d2-26ee8d567fd3" />
-Alternative to AI:Rule- based system is an alternative to AI
-AI:Learning- based system
 <img width="469" height="238" alt="image" src="https://github.com/user-attachments/assets/a6858440-4a85-4728-8003-01c8ab08f588" />
 
+Alternative to AI:Rule- based system is an alternative to AI
+AI:Learning- based system
 <img width="405" height="206" alt="image" src="https://github.com/user-attachments/assets/d90b9ea3-faf6-4c0c-9bd5-c3c629ef5500" />
 
 <img width="392" height="249" alt="image" src="https://github.com/user-attachments/assets/d9b43311-a00a-41d6-bfb6-54a92544b0fc" />
