@@ -69,9 +69,10 @@ AI:Learning- based system
 <img width="405" height="206" alt="image" src="https://github.com/user-attachments/assets/d90b9ea3-faf6-4c0c-9bd5-c3c629ef5500" />
 Rule-based system or learning -based system is selected baed on nature of problem.
 Artificial neuron:
-Perceptron:
+Perceptron:Bioinspired computing
 
 <img width="511" height="226" alt="image" src="https://github.com/user-attachments/assets/618ca5c9-a8c5-4260-a87b-47210f3fc415" />
+Only a group of neurons can do a complicated task
 <img width="362" height="244" alt="image" src="https://github.com/user-attachments/assets/e9e5cf6a-dd20-443f-a4ba-37e93ea04c8e" />
 <img width="473" height="271" alt="image" src="https://github.com/user-attachments/assets/1be678e4-5ad4-42d2-b2ff-38a7998df16a" />
 <img width="296" height="250" alt="image" src="https://github.com/user-attachments/assets/8bdb187d-a6eb-4c77-a1b1-b46104a89ae2" />
