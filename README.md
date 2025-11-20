@@ -1,11 +1,11 @@
 # Data-science-and-data-analytics-
 class notes for DSA Class
 1st Session: IT FOUNDATIONS
-            i)Thinking productivity tools:plan write to think,question to focus- why?,teach to learn,note making-i111 revision
-            ii)Documentation method:Markdown file  format
-            iii)Github
-            iv)Cloud computing platform:google collab,kaggle
-            v)Typing
+            /ni)Thinking productivity tools:plan write to think,question to focus- why?,teach to learn,note making-i111 revision
+            /nii)Documentation method:Markdown file  format
+            /niii)Github
+            /niv)Cloud computing platform:google collab,kaggle
+            /nv)Typing
             
 2nd Session:Design thinking
             a)Think differently
