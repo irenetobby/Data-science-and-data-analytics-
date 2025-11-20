@@ -78,13 +78,13 @@ Only a group of neurons can do a complicated task
 <img width="296" height="250" alt="image" src="https://github.com/user-attachments/assets/8bdb187d-a6eb-4c77-a1b1-b46104a89ae2" />
 <img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/31d96a9f-0cba-4712-b4de-59a74f46bbc3" />
 Huge database
-<img width="534" height="226" alt="image" src="https://github.com/user-attachments/assets/cfbe9634-305f-422f-b8dc-b9a3af62e6fc" />
-<img width="649" height="469" alt="image" src="https://github.com/user-attachments/assets/996ef2c1-d43a-41c1-8289-e53d21571c19" />
-<img width="853" height="349" alt="image" src="https://github.com/user-attachments/assets/48da3bc7-613f-46e8-8c67-832c33980134" />
-<img width="616" height="540" alt="image" src="https://github.com/user-attachments/assets/0c25001a-b44b-48bb-a1e2-7517bfc16a99" />
-<img width="829" height="481" alt="image" src="https://github.com/user-attachments/assets/e3cc7061-a701-4c8e-a242-39da3a0680c7" />
-<img width="1005" height="435" alt="image" src="https://github.com/user-attachments/assets/c7fb0289-4944-4dd4-ad9d-b5dacfbfd7f4" />
-<img width="1014" height="555" alt="image" src="https://github.com/user-attachments/assets/a9d0b253-8b38-480f-be3d-2f4bddd1159c" />
+<img width="305" height="226" alt="image" src="https://github.com/user-attachments/assets/cfbe9634-305f-422f-b8dc-b9a3af62e6fc" />
+<img width="300" height="205" alt="image" src="https://github.com/user-attachments/assets/996ef2c1-d43a-41c1-8289-e53d21571c19" />
+<img width="353" height="200" alt="image" src="https://github.com/user-attachments/assets/48da3bc7-613f-46e8-8c67-832c33980134" />
+<img width="306" height="240" alt="image" src="https://github.com/user-attachments/assets/0c25001a-b44b-48bb-a1e2-7517bfc16a99" />
+<img width="329" height="281" alt="image" src="https://github.com/user-attachments/assets/e3cc7061-a701-4c8e-a242-39da3a0680c7" />
+<img width="305" height="235" alt="image" src="https://github.com/user-attachments/assets/c7fb0289-4944-4dd4-ad9d-b5dacfbfd7f4" />
+<img width="214" height="155" alt="image" src="https://github.com/user-attachments/assets/a9d0b253-8b38-480f-be3d-2f4bddd1159c" />
 
 
 
