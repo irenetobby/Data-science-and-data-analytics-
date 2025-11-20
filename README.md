@@ -28,4 +28,7 @@ stages in software development lifecycle:
             5)Customer delivery/deployment
 Methods in software development:
 1)Waterfall method(one after the other):1)requirement analysis 2) system design 3)implementation 4)testing 5)deployment 6)maintenance
+Speciality: complete each stage and move to next stage 
+Demerits: 1)Tedious process 2)Can't add any change or modification to this method. 3) If the process goes on for a longer period,may be technology is changed; effort and time goes waste and have to rework.4)non-continuous releases
+2)Agile methodology: Iterative approach to manage software development projects that focuses on continuous releases and incorporating customer feedback with every itr
 
