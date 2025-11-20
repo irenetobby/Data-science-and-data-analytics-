@@ -62,9 +62,12 @@ Session 4:Demystifying terms data science,ML and AI
 <img width="403" height="239" alt="image" src="https://github.com/user-attachments/assets/efe8b905-eb1e-4ce2-b2d2-26ee8d567fd3" />
 <img width="469" height="238" alt="image" src="https://github.com/user-attachments/assets/a6858440-4a85-4728-8003-01c8ab08f588" />
 <img width="392" height="249" alt="image" src="https://github.com/user-attachments/assets/d9b43311-a00a-41d6-bfb6-54a92544b0fc" />
+<img width="479" height="224" alt="image" src="https://github.com/user-attachments/assets/076bb06d-4805-452c-8b56-71ead3cf1464" />
+
 Alternative to AI:Rule- based system is an alternative to AI
 AI:Learning- based system
 <img width="405" height="206" alt="image" src="https://github.com/user-attachments/assets/d90b9ea3-faf6-4c0c-9bd5-c3c629ef5500" />
+Rule-based system or learning -based system is selected baed on nature of problem.
 
 Perceptron:
 
