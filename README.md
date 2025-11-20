@@ -60,7 +60,17 @@ Session 4:Demystifying terms data science,ML and AI
 <img width="531" height="284" alt="image" src="https://github.com/user-attachments/assets/35287b8b-7c1f-4013-afd7-ff6ef004d733" />
 <img width="403" height="239" alt="image" src="https://github.com/user-attachments/assets/efe8b905-eb1e-4ce2-b2d2-26ee8d567fd3" />
 
+<img width="469" height="238" alt="image" src="https://github.com/user-attachments/assets/a6858440-4a85-4728-8003-01c8ab08f588" />
+
 <img width="405" height="206" alt="image" src="https://github.com/user-attachments/assets/d90b9ea3-faf6-4c0c-9bd5-c3c629ef5500" />
+
+<img width="392" height="249" alt="image" src="https://github.com/user-attachments/assets/d9b43311-a00a-41d6-bfb6-54a92544b0fc" />
+
+Perceptron:
+
+<img width="511" height="226" alt="image" src="https://github.com/user-attachments/assets/618ca5c9-a8c5-4260-a87b-47210f3fc415" />
+
+
 
 
 
