@@ -52,5 +52,8 @@ Scrum:an agile framework for project management that helps teams deliver value t
 Kanban:
 Kanban is a visual management method for managing work, originating from the Japanese term for "signboard". It uses a visual board to show the workflow, with tasks (often represented as cards) moving through different stages until they are completed. Key principles include visualizing the workflow, limiting work in progress, focusing on flow, and continuous improvement. 
 <img width="426" height="247" alt="image" src="https://github.com/user-attachments/assets/8c9e2f3c-1b99-4d83-91b9-5fbb2ca62c2e" />
+Jira is an issue-tracking and project management software from Atlassian that helps teams plan, track, and manage their work. It is widely used for agile software development and can also be used for IT service management, bug tracking, and customer support. Originally a bug-tracking tool, Jira now supports various projects through features like customizable workflows, agile boards, and issue hierarchies. Jira is a project management tool used by teams to plan, track, and manage their work. It is commonly used for bug and issue tracking, especially in software development, and for managing agile projects using features like Kanban boards and scrum sprints. Other uses include workflow automation, marketing campaign management, and program management. 
+
+Session 4:Demystifying terms data science,ML and AI
 
 
