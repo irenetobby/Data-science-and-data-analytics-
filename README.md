@@ -48,4 +48,9 @@ Increased development speed. More collaboration.Better responses to market trend
 Scrum:an agile framework for project management that helps teams deliver value through iterative cycles called "sprints". It provides a structure of roles, events, and artifacts to manage complex projects, particularly in software development, by breaking work into small, manageable chunks and allowing for continuous adaptation and improvement. 
 <img width="500" height="253" alt="image" src="https://github.com/user-attachments/assets/8415db45-5c64-4df6-b519-75f232c59d45" />
 
+<img width="280" height="214" alt="image" src="https://github.com/user-attachments/assets/f5895dc4-f959-480a-8ed7-3b6b9f4aecc2" />
+Kanban:
+Kanban is a visual management method for managing work, originating from the Japanese term for "signboard". It uses a visual board to show the workflow, with tasks (often represented as cards) moving through different stages until they are completed. Key principles include visualizing the workflow, limiting work in progress, focusing on flow, and continuous improvement. 
+<img width="426" height="247" alt="image" src="https://github.com/user-attachments/assets/8c9e2f3c-1b99-4d83-91b9-5fbb2ca62c2e" />
+
 
