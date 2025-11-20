@@ -79,6 +79,8 @@ Only a group of neurons can do a complicated task
 <img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/31d96a9f-0cba-4712-b4de-59a74f46bbc3" />
 Huge database
 <img width="534" height="226" alt="image" src="https://github.com/user-attachments/assets/cfbe9634-305f-422f-b8dc-b9a3af62e6fc" />
+<img width="325" height="235" alt="image" src="https://github.com/user-attachments/assets/733e9bac-6d15-4f0a-b43b-5a41caa5f9d3" />
+
 
 <img width="427" height="175" alt="image" src="https://github.com/user-attachments/assets/56981a5c-36f6-483c-900a-3877ef37aa17" />
 <img width="308" height="270" alt="image" src="https://github.com/user-attachments/assets/9f896e40-657b-4980-a916-b77d9217d127" />
