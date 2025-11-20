@@ -56,7 +56,7 @@ Jira is an issue-tracking and project management software from Atlassian that he
 
 Session 4:Demystifying terms data science,ML and AI
 
-<img width="135" height="70" alt="image" src="https://github.com/user-attachments/assets/31cc141d-fa3c-49b2-8668-8c1802794747" />
+<img width="200" height="204" alt="image" src="https://github.com/user-attachments/assets/31cc141d-fa3c-49b2-8668-8c1802794747" />
 
 <img width="123" height="50" alt="image" src="https://github.com/user-attachments/assets/35287b8b-7c1f-4013-afd7-ff6ef004d733" />
 <img width="403" height="239" alt="image" src="https://github.com/user-attachments/assets/efe8b905-eb1e-4ce2-b2d2-26ee8d567fd3" />
