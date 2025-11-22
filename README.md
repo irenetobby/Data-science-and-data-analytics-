@@ -98,6 +98,7 @@ Huge database
 <img width="485" height="231" alt="image" src="https://github.com/user-attachments/assets/23cece2f-ff78-499a-8195-a35e1aa918f4" />
 
 <img width="369" height="212" alt="image" src="https://github.com/user-attachments/assets/f44c6e71-05dd-4450-9449-b911847d783c" />
+
 Session 5:Setting up programming Environment, Virtual environment, Intro to Python
 Install python
 Install vs code
@@ -110,7 +111,18 @@ go to vs code
 create virtual environment,click quick create
 go to google drive,click my drive ,create new folder
 
-
+Data analytics:
+Data analytics involves analyzing raw data to extract strategic insights. For example, you might use data analytics to visualize past sales trends to make purchasing decisions.
+Data science:
+The science of analysing and extracting information from large sets of data, which typically combines elements of statistics, maths, computing, and other subjects.
+ML:
+Machine learning (ML) is a type of artificial intelligence (AI) that enables computer systems to learn from data without explicit programming. In essence, it's about teaching computers to identify patterns, make decisions, and improve their accuracy over time through experience.
+Ethical considerations of AI:
+1)Job displacement
+2)privacy concerns
+3)bias & fairness:algorithmic bias,discrimination risks
+4)securityissues: adversial attacks,deepfakes & misinformation
+5)ethical dilemmas:autonomy & control,accountability
 
 
 
