@@ -200,7 +200,7 @@ Identity operators
 Membership operators
 Bitwise operators
 
-Python Conditions and If statements:
+a)Python Conditions and If statements:
 Python supports the usual logical conditions from mathematics:
 
 Equals: a == b
@@ -211,6 +211,58 @@ Greater than: a > b
 Greater than or equal to: a >= b
 These conditions can be used in several ways, most commonly in "if statements" and loops.
 
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+  
+b)The Elif Keyword
+The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
 
+The elif keyword allows you to check multiple expressions for True and execute a block of code as soon as one of the conditions evaluates to True.
+
+a = 33
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+  
+  c)he Else Keyword
+The else keyword catches anything which isn't caught by the preceding conditions.
+
+The else statement is executed when the if condition (and any elif conditions) evaluate to False.
+a = 200
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
+
+  d)Python Loops
+Python has two primitive loop commands:
+
+while loops
+for loops
+
+The while Loop
+With the while loop we can execute a set of statements as long as a condition is true.
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+
+  Python For Loops
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.
+
+With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
 
 
