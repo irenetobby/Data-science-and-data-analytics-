@@ -124,14 +124,92 @@ Ethical considerations of AI:
 4)securityissues: adversial attacks,deepfakes & misinformation
 5)ethical dilemmas:autonomy & control,accountability
 
+Python Introduction:
+What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
+It is used for:
 
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+What can Python do?
+Python can be used on a server to create web applications.
+Python can be used alongside software to create workflows.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
+Why Python?
+Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+Python has a simple syntax similar to the English language.
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+Python can be treated in a procedural way, an object-oriented way or a functional way.
 
+Python Syntax:
+ print("Hello, World!")
+Hello, World!
 
+Python Indentation
+Indentation refers to the spaces at the beginning of a code line.
 
+if 5 > 2:
+  print("Five is greater than two!")
+  Python Comments:
+Comments can be used to explain Python code.
 
+Comments can be used to make the code more readable.
 
+Comments can be used to prevent execution when testing code.
 
+Python Variables:
+
+Variables
+Variables are containers for storing data values.
+Creating Variables
+Python has no command for declaring a variable.
+
+A variable is created the moment you first assign a value to it.
+
+Python Data Types
+
+Built-in Data Types
+In programming, data type is an important concept.
+
+Variables can store data of different types, and different types can do different things.
+
+Python has the following data types built-in by default, in these categories:
+
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
+
+Python Operators:
+
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Identity operators
+Membership operators
+Bitwise operators
+
+Python Conditions and If statements:
+Python supports the usual logical conditions from mathematics:
+
+Equals: a == b
+Not Equals: a != b
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
+These conditions can be used in several ways, most commonly in "if statements" and loops.
 
 
 
