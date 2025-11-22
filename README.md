@@ -98,10 +98,17 @@ Huge database
 <img width="485" height="231" alt="image" src="https://github.com/user-attachments/assets/23cece2f-ff78-499a-8195-a35e1aa918f4" />
 
 <img width="369" height="212" alt="image" src="https://github.com/user-attachments/assets/f44c6e71-05dd-4450-9449-b911847d783c" />
-
-
-
-
+Session 5:Setting up programming Environment, Virtual environment, Intro to Python
+Install python
+Install vs code
+click python
+go to windows explorer
+this pc, create new folder,sub folder
+go to vs code ,file, open folder,select folder,create new file
+go to this pc, create text document-read me
+go to vs code
+create virtual environment,click quick create
+go to google drive,click my drive ,create new folder
 
 
 
