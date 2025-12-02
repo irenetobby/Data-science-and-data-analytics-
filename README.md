@@ -328,6 +328,8 @@ With the for loop we can execute a set of statements, once for each item in a li
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
+  ![Uploading image.png…]()
+
   <img width="563" height="293" alt="image" src="https://github.com/user-attachments/assets/3d954172-41f5-4b4c-bca6-f7a33c4239c2" />
   <img width="537" height="283" alt="image" src="https://github.com/user-attachments/assets/dd74f79d-b0b4-490e-8a49-7044df8a7766" />
   <img width="486" height="173" alt="image" src="https://github.com/user-attachments/assets/93fd4d28-fa05-45c5-ac7e-365190e79bb0" />
