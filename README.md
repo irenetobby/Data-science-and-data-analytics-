@@ -328,7 +328,7 @@ With the for loop we can execute a set of statements, once for each item in a li
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
-  ![Uploading image.png…]()
+  <img width="287" height="173" alt="image" src="https://github.com/user-attachments/assets/0c41dfa2-4e83-4580-bfad-36f2f38d2d72" />
 
   <img width="563" height="293" alt="image" src="https://github.com/user-attachments/assets/3d954172-41f5-4b4c-bca6-f7a33c4239c2" />
   <img width="537" height="283" alt="image" src="https://github.com/user-attachments/assets/dd74f79d-b0b4-490e-8a49-7044df8a7766" />
@@ -338,6 +338,10 @@ for x in fruits:
 
 
  <img width="350" height="172" alt="image" src="https://github.com/user-attachments/assets/edb1bdbf-925b-4646-ab41-4d863fad761f" />
+
+ FUNCTIONS IN PYTHON:
+ ![Uploading image.png…]()
+
 
 
 
