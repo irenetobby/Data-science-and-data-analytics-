@@ -329,6 +329,7 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
   <img width="287" height="173" alt="image" src="https://github.com/user-attachments/assets/0c41dfa2-4e83-4580-bfad-36f2f38d2d72" />
+![Uploading image.png…]()
 
   <img width="563" height="293" alt="image" src="https://github.com/user-attachments/assets/3d954172-41f5-4b4c-bca6-f7a33c4239c2" />
   <img width="537" height="283" alt="image" src="https://github.com/user-attachments/assets/dd74f79d-b0b4-490e-8a49-7044df8a7766" />
